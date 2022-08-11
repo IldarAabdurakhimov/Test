@@ -1,0 +1,15 @@
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.csproj.AssemblyReference.cache
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.AssemblyInfoInputs.cache
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.AssemblyInfo.cs
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.csproj.CoreCompileInputs.cache
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\bin\Debug\net6.0\ExampleIDZ.exe
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\bin\Debug\net6.0\ExampleIDZ.deps.json
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\bin\Debug\net6.0\ExampleIDZ.runtimeconfig.json
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\bin\Debug\net6.0\ExampleIDZ.dll
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\bin\Debug\net6.0\ExampleIDZ.pdb
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.dll
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\refint\ExampleIDZ.dll
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.pdb
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ExampleIDZ.genruntimeconfig.cache
+C:\Users\Ильдар\Desktop\ДЗ\ExampleIDZ\obj\Debug\net6.0\ref\ExampleIDZ.dll
